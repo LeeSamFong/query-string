@@ -684,4 +684,4 @@ var queryString = /*#__PURE__*/Object.freeze({
 	stringifyUrl: stringifyUrl
 });
 
-console.log(queryString.stringifyUrl);
+console.log(queryString.stringify);
