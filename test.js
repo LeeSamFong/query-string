@@ -1,3 +1,3 @@
-import queryString from './index.js';
+import {stringify} from './index.js';
 
-console.log(queryString.stringifyUrl)
+console.log(stringify)
