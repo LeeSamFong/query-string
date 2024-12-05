@@ -51,10 +51,13 @@
 		"split-on-first": "^3.0.0"
 	},
 	"devDependencies": {
+		"@rollup/plugin-commonjs": "^28.0.1",
+		"@rollup/plugin-node-resolve": "^15.3.0",
 		"ava": "^6.1.1",
 		"benchmark": "^2.1.4",
 		"deep-equal": "^2.2.3",
 		"fast-check": "^3.15.1",
+		"rollup": "^4.28.0",
 		"tsd": "^0.30.7",
 		"xo": "^0.57.0"
 	},
